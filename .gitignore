@@ -8,3 +8,6 @@ bin/*
 *.so
 .sconsign.dblite
 
+# Vagrant
+.vagrant
+*.log
